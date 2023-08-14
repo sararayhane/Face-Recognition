@@ -1,5 +1,6 @@
 # Face-Recognition
-Face Recognition using HOG vs LBP Features
+Face Recognition using HOG vs LBP Features.
+
 This repository contains code for a face recognition project that compares the performance of the Histogram of Oriented Gradients (HOG) and Local Binary Pattern (LBP) features using the K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) classifiers.
 
 ## Overview
